@@ -63,7 +63,7 @@ fair game.
 
 There are lots of great reasons to present at VisLies.
 
-  * It's fun! No, seriously. Showing humours visualizations is a blast.
+  * It's fun! No, seriously. Showing humorous visualizations is a blast.
   * No peer review! It's so much easier than trying to get in any other VIS venue.
   * Be featured on our blog! We'll even place a link to your web site. Increase your rank on Google searches.
   * Get recognized by your peers! This is a great low barrier way to present at vis. (Great for students!)
