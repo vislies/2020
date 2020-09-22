@@ -19,7 +19,7 @@ Estrel Hotel & Congress Center, Room 30310<br />
 
 This fun and engaging event showcases examples of egregious perceptual,
 cognitive, and conceptual errors in visualization, presented by members of
-the Vis community. Examples from our own work, from published papers, and
+the VIS community. Examples from our own work, from published papers, and
 from the internet highlight the many ways the visual representation can
 misrepresent the underlying phenomena in the data. This is a great
 opportunity for amusement and for learning, and every year we walk away
@@ -36,7 +36,7 @@ one-day impact the world.
 
 VisLies is an open forum for anyone to present their favorite visual
 misinformation. Make VisLies more fun for yourself and everyone else by
-sharing your favorite (or most delpored) ways to misrepresent data.
+sharing your favorite (or most deplored) ways to misrepresent data.
 
 ### Scope
 
@@ -47,7 +47,11 @@ produced from either others or themselves, that demonstrate how that
 visualization deceives. These examples help teach us in an entertaining
 way. Common examples of misleading visualizations and techniques include
 
+  * Visual and cognitive cues that misdirect attention and/or slant the
+    interpretation of the data
+  * Misrepresenting uncertainty (especially for influence or profit)
   * Exaggerated scaling
+  * Misrepresenting changes over time
   * Cherry picking data
   * Misusing and abusing color
   * Using features difficult to compare (like area or angle)
@@ -66,7 +70,7 @@ There are lots of great reasons to present at VisLies.
   * It's fun! No, seriously. Showing humorous visualizations is a blast.
   * No peer review! It's so much easier than trying to get in any other VIS venue.
   * Be featured on our blog! We'll even place a link to your web site. Increase your rank on Google searches.
-  * Get recognized by your peers! This is a great low barrier way to present at vis. (Great for students!)
+  * Get recognized by your peers! This is a great low barrier way to present at VIS. (Great for students!)
 
 ### Submission
 
