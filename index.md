@@ -11,9 +11,10 @@ main-nav:
 
 # VisLies 2020
 
-<!--
-**Tuesday October 23** 12:30 – 2:00 PM<br />
+**Tuesday October 27** 1:40 – 3:00 PM US Mountain Time<br />
 Held in conjunction with IEEE VIS 2020<br />
+Connection Information TBA
+<!--
 Estrel Hotel & Congress Center, Room 30310<br />
 -->
 
