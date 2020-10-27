@@ -13,10 +13,7 @@ main-nav:
 
 **Tuesday October 27** 1:40 – 3:00 PM US Mountain Time<br />
 Held in conjunction with IEEE VIS 2020<br />
-Connection Information TBA
-<!--
-Estrel Hotel & Congress Center, Room 30310<br />
--->
+To join on Zoom, register for IEEE VIS, go to [VisLies! in the virtual schedule](https://virtual.ieeevis.org/session_m-lies.html), and click on the Zoom link.
 
 This fun and engaging event showcases examples of egregious perceptual,
 cognitive, and conceptual errors in visualization, presented by members of
