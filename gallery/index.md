@@ -5,6 +5,10 @@ gallery-nav:
     url: "#early-panic"
   - title: Downplay the Threat
     url: "#downplay-the-threat"
+  - title: Change of Scale
+    url: "#change-of-scale"
+  - title: Change of Order
+    url: "#change-of-order"
 ---
 
 # VisLies 2020 Gallery
@@ -91,4 +95,44 @@ Granted, the COVID-19 death rate in the U.S. is higher than the world as a whole
 [a USA Facts article]: https://usafacts.org/articles/top-causes-death-united-states-heart-disease-cancer-and-covid-19/
 
 
+## Change of Scale
+
+<a href="https://drive.google.com/file/d/1XNGfa5x-cNWbC2c-wKvjr4ALqpakRNsH/view?usp=sharing" class="image-right">
+![Georgia Change of Scale](georgia-change-of-scale-thumbnail.png)
+</a>
+
+We all want to feel like we are doing well with handling the pandemic.
+Sometimes this leads to the fibbing of some data.
+[Bernice Rogowitz] presented these choropleth maps provided by the [Georgia Department of Public Health].
+The left map shows the number of COVID-19 cases, per county, in June (on the left) and July (on the right).
+The two maps look quite similar, and one might be lead to believe that the spread of COVID-19 us under control.
+But a closer look reveals that the scale of the colors has changed.
+Note that the largest number of cases in June is 4,661, but this jumps by about 500 cases to 5,165 in July.
+
+(It should be noted that the [Georgia Department of Public Health] has since fixed the problem.)
+
+[Georgia Department of Public Health]: https://dph.georgia.gov/covid-19-daily-status-report
+
+
+## Change of Order
+
+<a href="https://drive.google.com/file/d/1iM1LGxGqi9OBJp8pqYCtVFbLEPmwuGWJ/view?usp=sharing" class="image-right">
+![Georgia Change of Order](georgia-reorder-thumbnail.jpeg)
+</a>
+
+The [Georgia Department of Public Health]'s troubles with data display didn't end there.
+[Bernice][Bernice Rogowitz] also showed this bar chart showing a sharp downward trend of new COVID-19 infections.
+Or at least it seems that way.
+If we look more closely, we see that the bars are written out of order.
+Rather than being displayed in chronological order, they have been resorted from highest to lowest bars, making the decline look much steeper than it actually is.
+To reinforce this, the bars for the counties are also reordered in each group.
+[A graph with a corrected order] shows a much less dramatic trend.
+
+Whereas readjusting the scale is a simple error to make by mistake, it takes some work to mangle the visualization in this way.
+
+[Georgia Department of Public Health]: https://dph.georgia.gov/covid-19-daily-status-report
+[A graph with a corrected order]: https://drive.google.com/file/d/1QR3-W6sW8LsyqQi1HRzukCYUZ2d2ajiI/view?usp=sharing
+
+
 [Ken Moreland]: http://kennethmoreland.com
+[Bernice Rogowitz]: https://sites.google.com/site/bernicerogowitz/
