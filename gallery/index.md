@@ -3,6 +3,8 @@ layout: default
 gallery-nav:
   - title: Early Panic
     url: "#early-panic"
+  - title: Downplay the Threat
+    url: "#downplay-the-threat"
 ---
 
 # VisLies 2020 Gallery
@@ -48,8 +50,45 @@ This shows the proportional amount of infections (total, not per-capita) in diff
 One issue with a display like this is that for a country with a small number of infections (for example 1), it can be difficult to see or notice.
 There is a big difference between 0 and 1 infections.
 To makeit more clear in what countries infections have occured, an arrow is provided to highlight the country.
-
+ 
 [an article in the Sun]: https://www.thesun.co.uk/news/10799738/coronavirus-could-already-spread-uk/
+
+## Downplay the Threat
+
+<a href="https://drive.google.com/file/d/1sfCRgJ6wwYhc9QqaJc9rDeZs6-uwCRKZ/view?usp=sharing" class="image-right">
+![Cumulative Deaths](covid-deaths-cases-global-thumbnail.jpg)
+</a>
+
+Whereas some exaggerated the threat of COVID-19, others downplayed it.
+[Ken][Ken Moreland] presented this plot comes from [an article from Swiss Policy Research].
+This plot purportedly demonstrates the deadliness of COVID-19 by comparing the disease's deaths to all other deaths.
+According to the visualization, COVID-19 deaths look insignificant.
+But there are several things this plot does to minimize the apparent COVID-19 deaths.
+
+First, although there were some deaths in China early on, COVID-19 did not really start taking off worldwide until 2-3 months into the year. 
+iven that this plot is only for the first 8 months of 2020, this means that the total deaths are counting deaths for nearly twice as much time.
+
+Second, it’s not clear how accurate the data is.
+The source does not make it clear how these data were collected (other than total deaths were interpolated from "Our World in Data" figures).
+Counting COVID-19 deaths is tricky, and how you count can affect the size.
+So it is important to describe the source of this data.
+For example, both the [CDC COVID-19 count] and the [Our World Data COVID-19 count] use excess mortaility, which shows a much more significant percentage of deaths.
+
+<div class="image-stop" />
+
+<a href="https://drive.google.com/file/d/1HeMMl53AErZPeO4gjW6rSg_XOeJOyiTk/view?usp=sharing" class="image-right">
+![Types of Death](types-of-deaths-thumbnail.png)
+</a>
+
+Third, compared to total deaths, most of the worlds deadliest problems look small.
+Take, for example, this recent plot from [a USA Facts article] shows that in recent months COVID-19 is the third largest killer, above diseases such as stroke and diabetes.
+It is hard to argue that stroke is an insignificant disease.
+Granted, the COVID-19 death rate in the U.S. is higher than the world as a whole, but representing the disease as insignificant is not honest.
+
+[an article from Swiss Policy Research]: https://swprs.org/covid-the-big-picture-in-7-charts/
+[CDC COVID-19 count]: https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm
+[Our World Data COVID-19 count]: https://ourworldindata.org/excess-mortality-covid
+[a USA Facts article]: https://usafacts.org/articles/top-causes-death-united-states-heart-disease-cancer-and-covid-19/
 
 
 [Ken Moreland]: http://kennethmoreland.com
