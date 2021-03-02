@@ -15,6 +15,10 @@ gallery-nav:
     url: "#more-than-a-whole"
   - title: Perfect Speed
     url: "#perfect-speed"
+  - title: The Tall and Short of It
+    url: "#the-tall-and-short-of-it"
+  - title: Mismatched Icons
+    url: "#mismatched-icons"
 ---
 
 # VisLies 2020 Gallery
@@ -235,6 +239,29 @@ This cannot be right.
 
 [A more trustworthy example]: https://drive.google.com/file/d/1L3sYo0RBMMCDPoXTcgsR6nW9Ysqwediq/view?usp=sharing
 [Computer Architecture: A Quantitative Approach]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.115.1881&rank=1&q=Computer%20Architecture:%20A%20Quantitative%20Approach&osm=&ossid=
+
+
+## The Tall and Short of It
+
+<a href="https://drive.google.com/file/d/13Bu_6kQ8s7rfkdvI5F8utNCGcVDXMqSe/view?usp=sharing" class="image-right">
+![Looking Down](looking-down-thumbnail.jpeg)
+</a>
+
+This figure falls into the trap of resizing both width and height when the data is only proportional to height.
+A worse problem, though, is that the baseline is at 1.5 meters (almost 5 feet).
+It makes the Philippineo shorter than the Netherlander’s leg.
+
+
+## Mismatched Icons
+
+<a href="https://drive.google.com/file/d/1NBUHcgetKQTjhi2nDJ6-VI4old2QOiCr/view?usp=sharing" class="image-right">
+![Mismatched Icons](mismatched-icons-thumbnail.jpg)
+</a>
+
+Using icons to represent the locaton of things of a particular type is a common, and valid, practice.
+But this legend shows the weirdest looking turkey we have ever seen.
+
+If you want to confuse people, an easy way to do it is use conflicting information, and this odd scheme does just that.
 
 
 [Ken Moreland]: http://kennethmoreland.com
