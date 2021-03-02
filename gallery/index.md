@@ -9,6 +9,8 @@ gallery-nav:
     url: "#change-of-scale"
   - title: Change of Order
     url: "#change-of-order"
+  - title: Corona at the Bar
+    url: "#corona-at-the-bar"
 ---
 
 # VisLies 2020 Gallery
@@ -132,6 +134,43 @@ Whereas readjusting the scale is a simple error to make by mistake, it takes som
 
 [Georgia Department of Public Health]: https://dph.georgia.gov/covid-19-daily-status-report
 [A graph with a corrected order]: https://drive.google.com/file/d/1QR3-W6sW8LsyqQi1HRzukCYUZ2d2ajiI/view?usp=sharing
+
+
+## Corona at the Bar
+
+<a href="https://drive.google.com/file/d/1h_06SdZ-hPWF4CQa84rT162llO8qSIHg/view?usp=sharing" class="image-half">
+<img src="corona-bars-thumbnail.jpg" alt="Corona Bars" class="image-half" />
+</a>
+<a href="https://drive.google.com/file/d/1FoDVHnYP9miyv6hgduQ8eWMes-mxa9mf/view?usp=sharing" class="image-half">
+<img src="corona-finance-confidence-thumbnail.jpg" alt="Corona Finance" class="image-half" />
+</a>
+
+Nothing says deadly virus like bar charts, and oh boy have we had some.
+A trick we’ve talked about many times at VisLies is to punctuate your point by zooming your scale to accentuate differences, and [Ken][Ken Moreland] showed this pair of examples.
+In both cases, the values the bars represent are within 2% of each other.
+Although the numbers are almost the same, the bars make one look unreasonably larger than the other.
+
+The example on the right has a second problem.
+Note that the title says that voters views are "shifting."
+But the plot shows no evidence of shifting.
+To show shifting, you have to show data changing over time. This is just one snapshot.
+There is no evidence show to show the data have changed or stated the same.
+
+<a href="https://drive.google.com/file/d/13P1HubAuf7CTmYHkmQm5Vc7KW-Z3lxUN/view?usp=sharing" class="image-right">
+![Corona Wrong Bars](corona-wrong-bars-thumbnail.jpg)
+</a>
+
+As bad as the scaling was in the previous examples, at least the height of the bars have some sort of relationship with the values they represent.
+In this chart, the height of the bars has nothing to do with the the values they represent.
+Note that the smallest bar, the yellow one, has the largest value.
+But the smallest value is not the tallest bar.
+
+<a href="https://drive.google.com/file/d/1c6JtEQr3PwCIle5QgfmUWnyoy08L4cBt/view?usp=sharing" class="image-left">
+![More Senseless Bars](senseless-bars-thumbnail.jpg)
+</a>
+
+But why should COVID-19 have all the fun?
+Here is an earlier example of the same issue for the Zika virus.
 
 
 [Ken Moreland]: http://kennethmoreland.com
