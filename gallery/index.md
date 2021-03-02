@@ -13,6 +13,8 @@ gallery-nav:
     url: "#corona-at-the-bar"
   - title: More than a Whole
     url: "#more-than-a-whole"
+  - title: Perfect Speed
+    url: "#perfect-speed"
 ---
 
 # VisLies 2020 Gallery
@@ -210,6 +212,29 @@ Maybe 4% of pedestrians are hit in an intersection, get knocked out of the inter
 Here is a final example.
 I’ll let this chart speak for itself.
 Not only does this graphic not understand how pie charts work, but it doesn’t really understand how math works.
+
+
+## Perfect Speed
+
+<a href="https://drive.google.com/file/d/194ernt-K_fYvT2u1_NWhtETJzf1BkAW5/view?usp=sharing" class="image-right">
+![Memory Vs. Speed](memory-vs-cpu-speed-thumbnail.png)
+</a>
+
+[Ken][Ken Moreland] presented this plot after seeing it in multiple publications.
+It is bothersome because it doesn’t look quite right.
+
+These slopes are remarkably straight.
+Suspiciously straight.
+That’s a warning flag that there is likely a lot of data that is getting aggregated (at best).
+
+But the real "what the hell?" aspect of this plot is this gap in the x axis
+In the middle of these perfect straight line, there is a seven year gap that is removed from the plot.
+This cannot be right.
+
+[A more trustworthy example] can be found in _[Computer Architecture: A Quantitative Approach]_ (fourth edition, page 289, Figure 5.2).
+
+[A more trustworthy example]: https://drive.google.com/file/d/1L3sYo0RBMMCDPoXTcgsR6nW9Ysqwediq/view?usp=sharing
+[Computer Architecture: A Quantitative Approach]: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.115.1881&rank=1&q=Computer%20Architecture:%20A%20Quantitative%20Approach&osm=&ossid=
 
 
 [Ken Moreland]: http://kennethmoreland.com
