@@ -11,6 +11,8 @@ gallery-nav:
     url: "#change-of-order"
   - title: Corona at the Bar
     url: "#corona-at-the-bar"
+  - title: More than a Whole
+    url: "#more-than-a-whole"
 ---
 
 # VisLies 2020 Gallery
@@ -156,7 +158,7 @@ But the plot shows no evidence of shifting.
 To show shifting, you have to show data changing over time. This is just one snapshot.
 There is no evidence show to show the data have changed or stated the same.
 
-<a href="https://drive.google.com/file/d/13P1HubAuf7CTmYHkmQm5Vc7KW-Z3lxUN/view?usp=sharing" class="image-right">
+<a href="https://drive.google.com/file/d/13P1HubAuf7CTmYHkmQm5Vc7KW-Z3lxUN/view?usp=sharing" class="image-left">
 ![Corona Wrong Bars](corona-wrong-bars-thumbnail.jpg)
 </a>
 
@@ -165,12 +167,49 @@ In this chart, the height of the bars has nothing to do with the the values they
 Note that the smallest bar, the yellow one, has the largest value.
 But the smallest value is not the tallest bar.
 
-<a href="https://drive.google.com/file/d/1c6JtEQr3PwCIle5QgfmUWnyoy08L4cBt/view?usp=sharing" class="image-left">
+<a href="https://drive.google.com/file/d/1c6JtEQr3PwCIle5QgfmUWnyoy08L4cBt/view?usp=sharing" class="image-right">
 ![More Senseless Bars](senseless-bars-thumbnail.jpg)
 </a>
 
 But why should COVID-19 have all the fun?
 Here is an earlier example of the same issue for the Zika virus.
+
+
+## More than a Whole
+
+<a href="https://drive.google.com/file/d/1z_7vkE0BhRmq8_X9uaCoCoFt9SqegITi/view?usp=sharing" class="image-right">
+![COVID Pie](covid-worries-thumbnail.jpg)
+</a>
+
+It seems like it wouldn't be a VisLies if we didn't spend some time trashing bad pie charts.
+What is it about pie charts that makes people do them so wrong?
+Apparently here someone was so worried about COVID-19 that they managed to get way more than 100% of the worries there.
+Here’s a tip: if the number’s don’t add up to 100%, you’re using it wrong.
+
+<div class="image-stop" />
+
+<a href="https://drive.google.com/file/d/1M8Fr6rkrzsobAiAz0pl5IubFbO0uFKCi/view?usp=sharing" class="image-right">
+![Hit and Run](hit-and-run-pie-chart-thumbnail.jpg)
+</a>
+
+This misuse of pie charts abound.
+Here is a pie chart of car accidents involving pedestrians.
+The first weird thing about this chart is that there is "at an intersection," "not at an intersection," and "other."
+What is "other"?
+What location is neither at an intersection nor not at an intersection?
+Additionally, the values add up to 104%.
+I’m not a statistician, but that seems weird.
+Maybe 4% of pedestrians are hit in an intersection, get knocked out of the intersection, and get hit again.
+
+<div class="image-stop" />
+
+<a href="https://drive.google.com/file/d/1dHEUs71nMXlh_slJVbM_GS5ivp9B4fii/view?usp=sharing" class="image-right">
+![Another Dumb Pie Chart](another-dumb-pie-chart-thumbnail.jpg)
+</a>
+
+Here is a final example.
+I’ll let this chart speak for itself.
+Not only does this graphic not understand how pie charts work, but it doesn’t really understand how math works.
 
 
 [Ken Moreland]: http://kennethmoreland.com
