@@ -13,6 +13,10 @@ gallery-nav:
     url: "#corona-at-the-bar"
   - title: More than a Whole
     url: "#more-than-a-whole"
+  - title: Questionable Advice
+    url: "#questionable-advice"
+  - title: Pyramid Scheme
+    url: "#pyramid-scheme"
   - title: Perfect Speed
     url: "#perfect-speed"
   - title: The Tall and Short of It
@@ -216,6 +220,66 @@ Maybe 4% of pedestrians are hit in an intersection, get knocked out of the inter
 Here is a final example.
 I’ll let this chart speak for itself.
 Not only does this graphic not understand how pie charts work, but it doesn’t really understand how math works.
+
+
+## Questionable Advice
+
+<a href="https://drive.google.com/file/d/10bRelStjkiUXnkFpg5qJHM_Oyb-CPNQA/view?usp=sharing" class="image-right">
+![Data Vis Search](data-vis-search-thumbnail.png)
+</a>
+
+Out of curiosity, [Bernice][Bernice Rogowitz] looked up "data visualization" into Google.
+If someone wanted to learn something about proper visualization, I likely place to start would be a search like this.
+Thus, it is interesting to see what sort of advice is given at the top of the list.
+
+One would hope that the top advice from Google would be well thought out.
+Although the top images are asthetically pleasing, there are some questionable design choices.
+
+<div class="image-stop" />
+
+<a href="https://drive.google.com/file/d/18uTDkZpukFXHwMgHRpU-M8SMdrrBq4pr/view?usp=sharing" class="image-right">
+![Best Ever Bar Chart](best-bar-chart-thumbnail.png)
+</a>
+
+Take for example this chart.
+Generally, bar charts are an effective way to represent data.
+But there are some questionable choices here.
+The background looks nice, but why is it showing Africa and the Middle East when the data are about China?
+The rounded edges of the bars might be asthetically pleasing, but they make it more difficult to determine the apex of the bars.
+The bar labels, while readable, are cramped and it is difficult to tell which label goes to which bar.
+And the bars are in alphabetical order, which has little to do with the data.
+Why not order the bars in, for example, bar height?
+That would make the distribution more clear.
+
+This chart looks nice, but is it the best example we can give?
+
+<div class="image-stop" />
+
+<a href="https://drive.google.com/file/d/1rqNRNX1Z16JBVa6R8AB3yCSAQfp2iAdA/view?usp=sharing" class="image-right">
+![Heat Map Interaction](heat-map-interaction-thumbnail.gif)
+</a>
+
+Here is another example [Bernice][Bernice Rogowitz] found.
+The example shows a heat map being dynamically adjusted by changing the range.
+But the interaction seems wrong.
+The slider shows a narrowing of the range by removing the higher values.
+But the display seems to be removing the lower values, not the higher ones.
+And it also seems that the colors in the display are being readjusted by the new range, but the colors in the range selector are not also being updated.
+
+In short, there are probably better examples of interaction to show to new developers.
+
+## Pyramid Scheme
+
+<a href="https://drive.google.com/file/d/1NGlc4aC_ffMwZvBGSGcbv_T7K0PKgeIx/view?usp=sharing" class="image-right">
+![Pyramid Timeline](pyramid-time-thumbnail.png)
+</a>
+
+Speaking of form over function, [Bernice][Bernice Rogowitz] also came across this interesting suggestion to show experience and education on a résumé.
+It is an intersting idea: Showing experience as a graphical timeline rather than a list of dates.
+But the choice of representing time ranges as triangles is rather odd.
+Although the pyramid skyline looks nice, it seems to suggest that each experience ramps up and then ramps down, suggesting that the majority of the work happened in the middle.
+This is almost certainly not the case.
+Bars would likely be a more appropriate use in this case.
 
 
 ## Perfect Speed
