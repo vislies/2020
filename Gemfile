@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.4"
+gem "jekyll", "~> 4.2"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.0"
@@ -31,4 +31,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Latest versions of kramdown don't come with GFM (GitLab Flavored Markdown).
 # Need to specify it to be installed.
-gem "kramdown-parser-gfm", "~> 1.0"
+#gem "kramdown-parser-gfm", "~> 1.0"
+
+gem "webrick"
+
