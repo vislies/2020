@@ -17,6 +17,8 @@ gallery-nav:
     url: "#questionable-advice"
   - title: Pyramid Scheme
     url: "#pyramid-scheme"
+  - title: Pie to Go
+    url: "#pie-to-go"
   - title: Perfect Speed
     url: "#perfect-speed"
   - title: The Tall and Short of It
@@ -280,6 +282,21 @@ But the choice of representing time ranges as triangles is rather odd.
 Although the pyramid skyline looks nice, it seems to suggest that each experience ramps up and then ramps down, suggesting that the majority of the work happened in the middle.
 This is almost certainly not the case.
 Bars would likely be a more appropriate use in this case.
+
+
+## Pie to Go
+
+<a href="https://drive.google.com/file/d/1a7bC12Y0zfw_6YqKDnFdt3x_Q2t0tKVB/view?usp=sharing" class="image-right">
+![Economic Environment Impact](economic-environment-impact-thumbnail.png)
+</a>
+
+[Bernice][Bernice Rogowitz] also provided us with this fun example of a visualization that breaks the basic [Gestalt principle of proximity]: place related objects near each other.
+Here in this plot we see a global map where each continent is labeled and has associated pie charts.
+The problem we see is that the pie charts are spaced so widely and strangely that it is sometimes difficult to tell which chart applies to which continent.
+Plus, two types of pie charts are used with identical visual styles.
+Given enough time, one can parse out what data goes where, but data flows better if it is not a struggle.
+
+[Gestalt principle of proximity]: https://en.wikipedia.org/wiki/Principles_of_grouping#Proximity
 
 
 ## Perfect Speed
