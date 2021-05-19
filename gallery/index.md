@@ -9,6 +9,8 @@ gallery-nav:
     url: "#change-of-scale"
   - title: Change of Order
     url: "#change-of-order"
+  - title: Friendly Neighborhood Poster
+    url: "#friendly-neighborhood-poster"
   - title: Corona at the Bar
     url: "#corona-at-the-bar"
   - title: More than a Whole
@@ -148,6 +150,28 @@ Whereas readjusting the scale is a simple error to make by mistake, it takes som
 
 [Georgia Department of Public Health]: https://dph.georgia.gov/covid-19-daily-status-report
 [A graph with a corrected order]: https://drive.google.com/file/d/1QR3-W6sW8LsyqQi1HRzukCYUZ2d2ajiI/view?usp=sharing
+
+
+## Friendly Neighborhood Poster
+
+<a href="https://drive.google.com/file/d/1uYfwfmh7-76_9AGwf5toFR5RHzdjdHzR/view?usp=sharing" class="image-right">
+![Covid Sign](covid-sign-thumbnail.png)
+</a>
+
+While traversing her local area [Maria Zemankova] came across this poster outlining COVID-198 restrictions.
+Overall, the infographics are clear, but there are some strange elements to it.
+At first glance, it looks like all is bad.
+But in fact, two items are recommended whereas two are prohibited.
+The problem is that a check mark and a cross are actually visually pretty similar.
+This graphic could be made instantly clearer by using green (a color commonly associated with "go" in the US) with the check and other associated visual elements.
+This is not a case of simply saving money by using only red and black ink.
+The printers used are capible of full color as is evidenced by the blue logo, present even in [the printed poster].
+
+The part of the infographic telling us not to gether in groups is clear enough.
+However why is there a large X over a person drinking (water?)... alone... in an outdoor open space?
+
+[Maria Zemankova]: https://en.wikipedia.org/wiki/Maria_Zemankova
+[the printed poster]: https://drive.google.com/file/d/15yczc4acpeyg6Bd4b77fHU8wYPm6bMD5/view?usp=sharing
 
 
 ## Corona at the Bar
