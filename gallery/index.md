@@ -33,12 +33,12 @@ gallery-nav:
 
 October 27, 2020
 
-Thanks to the COVID-19 pandamic, we had to hold VisLies as virtual meeting this year.
+Thanks to the COVID-19 pandemic, we had to hold VisLies as virtual meeting this year.
 Although we always enjoy meeting each other in person, we were still able to have a great VisLies session.
 We had probably the largest group ever, with around 75 people consistently participating.
-Attendees spanned the globe from Austrailia to the U.S. to Europe.
+Attendees spanned the globe from Australia to the U.S. to Europe.
 
-Unfortunately, due to a snafu, we don't have a record of everyone who presented this year, so our gallary is a bit incomplete.
+Unfortunately, due to a snafu, we don't have a record of everyone who presented this year, so our gallery is a bit incomplete.
 If you remember presenting something, send us a note to <a href="mailto:vislies2020@vislies.org">vislies2020@vislies.org</a> so we can add your contribution.
 
 ## Early Panic
@@ -47,7 +47,7 @@ If you remember presenting something, send us a note to <a href="mailto:vislies2
 ![Exaggerated Spread](coronavirus-exaggerated-thumbnail.jpg)
 </a>
 
-It is no suprise that visualization lies about COVID-19 were a common theme this year.
+It is no surprise that visualization lies about COVID-19 were a common theme this year.
 [Ken Moreland] started by presenting this early infographic about COVID-19 from [an article in the Sun] from late January.
 At the time, the disease was mostly constrained to China, but was beginning to spread around the world.
 This was definitely a bad sign, but this graphic makes it look like the pandemic had already taken hold around the world.
@@ -55,8 +55,8 @@ If you look at the numbers, you see that all countries have only 1 or 2 cases, b
 
 But by far the biggest what the heck about this graphic are the black labels.
 The black label for China is about the number of deaths.
-Butthe black label on the U.S. is just about potential infections.
-The similarity of the label design suggests that they are tomeanthe same thing, but you cannot get more different than a person confirmed dead and a person who may or may not have gotten sick.
+But the black label on the U.S. is just about potential infections.
+The similarity of the label design suggests that they are to mean the same thing, but you cannot get more different than a person confirmed dead and a person who may or may not have gotten sick.
 It is a cheap trick to make the spread seem much worse than it actually was (at the time).
 
 <div class="image-stop" />
@@ -71,7 +71,7 @@ This shows the proportional amount of infections (total, not per-capita) in diff
 
 One issue with a display like this is that for a country with a small number of infections (for example 1), it can be difficult to see or notice.
 There is a big difference between 0 and 1 infections.
-To makeit more clear in what countries infections have occured, an arrow is provided to highlight the country.
+To make it more clear in what countries infections have occurred, an arrow is provided to highlight the country.
  
 [an article in the Sun]: https://www.thesun.co.uk/news/10799738/coronavirus-could-already-spread-uk/
 
@@ -88,13 +88,13 @@ According to the visualization, COVID-19 deaths look insignificant.
 But there are several things this plot does to minimize the apparent COVID-19 deaths.
 
 First, although there were some deaths in China early on, COVID-19 did not really start taking off worldwide until 2-3 months into the year. 
-iven that this plot is only for the first 8 months of 2020, this means that the total deaths are counting deaths for nearly twice as much time.
+Given that this plot is only for the first 8 months of 2020, this means that the total deaths are counting deaths for nearly twice as much time.
 
-Second, it’s not clear how accurate the data is.
+Second, it's not clear how accurate the data is.
 The source does not make it clear how these data were collected (other than total deaths were interpolated from "Our World in Data" figures).
 Counting COVID-19 deaths is tricky, and how you count can affect the size.
 So it is important to describe the source of this data.
-For example, both the [CDC COVID-19 count] and the [Our World Data COVID-19 count] use excess mortaility, which shows a much more significant percentage of deaths.
+For example, both the [CDC COVID-19 count] and the [Our World Data COVID-19 count] use excess mortality, which shows a much more significant percentage of deaths.
 
 <div class="image-stop" />
 
@@ -165,9 +165,9 @@ But in fact, two items are recommended whereas two are prohibited.
 The problem is that a check mark and a cross are actually visually pretty similar.
 This graphic could be made instantly clearer by using green (a color commonly associated with "go" in the US) with the check and other associated visual elements.
 This is not a case of simply saving money by using only red and black ink.
-The printers used are capible of full color as is evidenced by the blue logo, present even in [the printed poster].
+The printers used are capable of full color as is evidenced by the blue logo, present even in [the printed poster].
 
-The part of the infographic telling us not to gether in groups is clear enough.
+The part of the infographic telling us not to gather in groups is clear enough.
 However why is there a large X over a person drinking (water?)... alone... in an outdoor open space?
 
 [Maria Zemankova]: https://en.wikipedia.org/wiki/Maria_Zemankova
@@ -259,7 +259,7 @@ If someone wanted to learn something about proper visualization, I likely place 
 Thus, it is interesting to see what sort of advice is given at the top of the list.
 
 One would hope that the top advice from Google would be well thought out.
-Although the top images are asthetically pleasing, there are some questionable design choices.
+Although the top images are aesthetically pleasing, there are some questionable design choices.
 
 <div class="image-stop" />
 
@@ -271,7 +271,7 @@ Take for example this chart.
 Generally, bar charts are an effective way to represent data.
 But there are some questionable choices here.
 The background looks nice, but why is it showing Africa and the Middle East when the data are about China?
-The rounded edges of the bars might be asthetically pleasing, but they make it more difficult to determine the apex of the bars.
+The rounded edges of the bars might be aesthetically pleasing, but they make it more difficult to determine the apex of the bars.
 The bar labels, while readable, are cramped and it is difficult to tell which label goes to which bar.
 And the bars are in alphabetical order, which has little to do with the data.
 Why not order the bars in, for example, bar height?
@@ -301,7 +301,7 @@ In short, there are probably better examples of interaction to show to new devel
 </a>
 
 Speaking of form over function, [Bernice][Bernice Rogowitz] also came across this interesting suggestion to show experience and education on a résumé.
-It is an intersting idea: Showing experience as a graphical timeline rather than a list of dates.
+It is an interesting idea: Showing experience as a graphical timeline rather than a list of dates.
 But the choice of representing time ranges as triangles is rather odd.
 Although the pyramid skyline looks nice, it seems to suggest that each experience ramps up and then ramps down, suggesting that the majority of the work happened in the middle.
 This is almost certainly not the case.
@@ -354,7 +354,7 @@ This cannot be right.
 
 This figure falls into the trap of resizing both width and height when the data is only proportional to height.
 A worse problem, though, is that the baseline is at 1.5 meters (almost 5 feet).
-It makes the Philippineo shorter than the Netherlander’s leg.
+It makes the Filipino shorter than the Netherlander's leg.
 
 
 ## Mismatched Icons
@@ -363,7 +363,7 @@ It makes the Philippineo shorter than the Netherlander’s leg.
 ![Mismatched Icons](mismatched-icons-thumbnail.jpg)
 </a>
 
-Using icons to represent the locaton of things of a particular type is a common, and valid, practice.
+Using icons to represent the location of things of a particular type is a common, and valid, practice.
 But this legend shows the weirdest looking turkey we have ever seen.
 
 If you want to confuse people, an easy way to do it is use conflicting information, and this odd scheme does just that.
