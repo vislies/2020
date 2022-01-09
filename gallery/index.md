@@ -11,6 +11,8 @@ gallery-nav:
     url: "#change-of-order"
   - title: Friendly Neighborhood Poster
     url: "#friendly-neighborhood-poster"
+  - title: Inconsistent Statistics
+    url: "#inconsistent-statistics"
   - title: Corona at the Bar
     url: "#corona-at-the-bar"
   - title: More than a Whole
@@ -172,6 +174,30 @@ However why is there a large X over a person drinking (water?)... alone... in an
 
 [Maria Zemankova]: https://en.wikipedia.org/wiki/Maria_Zemankova
 [the printed poster]: https://drive.google.com/file/d/15yczc4acpeyg6Bd4b77fHU8wYPm6bMD5/view?usp=sharing
+
+
+## Inconsistent Statistics
+
+<a href="aus-households-covid.jpg" class="image-left">
+![](aus-households-covid-thumbnail.jpg)
+</a>
+
+<a href="aus-sick-leave.jpg" class="image-right">
+![](aus-sick-leave.jpg)
+</a>
+
+[Ben Simons] presented this graphic from the Australian Bureau of Statistics.
+In particular, Ben points out this box containing some simple statistics about the amount of sick leave available to Australian workers.
+The box states that 1 in 6 workers don't have paid sick leave while 1 in 3 works don't have any sick leave.
+
+Wait.
+So only 1/6 of workers don't have 2 weeks of sick leave while 2/6 (i.e. 1/3) workers have no sick leave.
+That would mean that 1/6 of workers have no sick leave but somehow enough sick leave for 2 weeks paid vacation.
+That makes no sense.
+
+Clearly, the statistics must mean something else, but we cannot figure out what that would be.
+
+[Ben Simons]: mailto:bsimons@acm.org
 
 
 ## Corona at the Bar
